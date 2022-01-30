@@ -185,3 +185,15 @@ Using hvPlot, create an interactive line plot that visualizes the cumulative ret
 
 ![Screen Shot 2022-01-22 at 16 26 54](https://user-images.githubusercontent.com/91238235/150659876-b9f17b3c-93c5-441d-9444-118fdbbc10bf.png)
 
+Happy coding!
+
+-----------------------------------------------------------------------
+
+## Contributors
+
+Sean Harrington-
+    Linkedin: www.linkedin.com/in/sean-harrington16
+
+-----------------------------------------------------------------------
+
+## License
