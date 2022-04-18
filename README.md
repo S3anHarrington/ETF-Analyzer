@@ -191,8 +191,7 @@ Happy coding!
 
 ## Contributors
 
-Sean Harrington-
-    Linkedin: www.linkedin.com/in/sean-harrington16
+Sean Harrington: www.linkedin.com/in/sean-harrington16
 
 -----------------------------------------------------------------------
 
